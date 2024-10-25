@@ -1,4 +1,4 @@
-public class Probni0804_obrnutiNiz {
+public class P04_obrnutiNiz {
     public static void main(String[] args) {
     /*
     Zadatak 4(Ogledalo):

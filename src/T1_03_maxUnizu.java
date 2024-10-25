@@ -1,4 +1,4 @@
-public class J10_Test1_03_maxUnizu {
+public class T1_03_maxUnizu {
     public static void main(String[] args) {
     /*
     Zadatak 3:

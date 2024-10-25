@@ -1,4 +1,4 @@
-public class Probni0802_minUnizu {
+public class P02_minUnizu {
     public static void main(String[] args) {
         /*
         Zadatak 2:

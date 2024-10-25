@@ -1,4 +1,4 @@
-public class Probni0801_brojPojavljivanjaStringa {
+public class P01_brojPojavljivanjaStringa {
     public static void main(String[] args) {
 /*
 Zadatak 1:

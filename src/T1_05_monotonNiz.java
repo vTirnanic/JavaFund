@@ -1,4 +1,4 @@
-public class J10_Test1_05_monotonNiz {
+public class T1_05_monotonNiz {
     public static void main(String[] args) {
     /*
     Zadatak 5:

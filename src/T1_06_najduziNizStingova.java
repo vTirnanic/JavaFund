@@ -1,4 +1,4 @@
-public class J10_Test1_06_najduziNizStingova {
+public class T1_06_najduziNizStingova {
     public static void main(String[] args) {
     /*
     Zadatak 6:

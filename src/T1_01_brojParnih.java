@@ -1,4 +1,4 @@
-public class J10_Test1_01_brojParnih {
+public class T1_01_brojParnih {
     public static void main(String[] args) {
     /*
     Zadatak 1:

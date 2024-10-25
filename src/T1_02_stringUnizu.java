@@ -1,4 +1,4 @@
-public class J10_Test1_02_stringUnizu {
+public class T1_02_stringUnizu {
     public static void main(String[] args) {
 /*
 Zadatak 2:

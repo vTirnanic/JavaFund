@@ -1,4 +1,4 @@
-public class Probni0806_konkaStringova {
+public class P06_konkaStringova {
     public static void main(String[] args) {
         /*
         Zadatak 6:

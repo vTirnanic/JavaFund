@@ -1,4 +1,4 @@
-public class Probni0805_bezDuplikata {
+public class P05_bezDuplikata {
     public static void main(String[] args) {
         String[] ulaz = {"aaa", "bbb", "aaa", "ccc", "ddd", "eee"};
         String[] bezDuplikata = nizStringovaBezDuplih(ulaz);

@@ -1,4 +1,4 @@
-public class J10_Test1_04_uzastopniUnizu {
+public class T1_04_uzastopniUnizu {
     public static void main(String[] args) {
     /*
     Zadatak 4(xo):

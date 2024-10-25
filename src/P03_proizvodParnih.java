@@ -1,4 +1,4 @@
-public class Probni0803_proizvodParnih {
+public class P03_proizvodParnih {
     public static void main(String[] args) {
         /*
         Zadatak 3:
